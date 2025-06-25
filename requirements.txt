@@ -1,0 +1,7 @@
+streamlit
+Pillow
+ollama
+langchain
+faiss-cpu
+tqdm
+PyPDF2
